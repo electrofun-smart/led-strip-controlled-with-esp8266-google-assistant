@@ -11,3 +11,5 @@ https://youtu.be/0czm7VIgoZs - Part 2
 
 ESP8266/Wemos code
 https://github.com/electrofun-smart/led-strip-controlled-with-esp8266-google-assistant
+
+Schematic: https://drive.google.com/file/d/18v_OCK300C6XMmKZQzE2lfnlc_9oh41t
